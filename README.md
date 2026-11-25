@@ -47,7 +47,7 @@ The notebook also includes small experiments on how `astype(int)` truncates, how
 ## How to run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/harshvaghasiya229/numpy-student-marks-analyzer.git
 cd numpy-student-marks-analyzer
 
 python -m venv .venv
